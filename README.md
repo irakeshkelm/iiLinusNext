@@ -12,16 +12,16 @@ then, continue to
 
 Check out,
 
-manifestoLinus2024.txt
+manifestoLinus2024.txt (in this folder)
 
-if, still interested,
+if, still interested
 
 Check out,
 
-peckingOrderSystems.txt
+peckingOrderSystems.txt (in this folder)
 
 
-Operationalize Planet backup.
+-----Operationalize Planet backup.
 
 Expand Independent interest
 
@@ -30,7 +30,7 @@ and
 Update Independent interest
 
 
-Operationalize USA.
+-----Operationalize USA.
 
 Train Independent interest
 
