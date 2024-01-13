@@ -37,9 +37,15 @@ VVIP = Very very important poople
 information from
 [
 private sources (Rakesh Kukatla-Sittrue)
-private sources (Didier Fernandes aka French girl)
+private sources (Didier Fernandes aka French girl - Elsa)
 public sources (aka internet)
 ]
+
+
+
+
+
+
 
 
 ----- Open signature -----
