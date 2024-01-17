@@ -77,7 +77,7 @@ go flats
 -- Independent males
 Male (aka boy) and female (aka lucky girl)
 Wear Male clothes (aka Shirts, pants) and female clothes (aka skirts, dresses) respectively
--- Whore males (aka coloreds)
+-- Whore males (aka coloreds aka let's do mechanical)
 Female (aka girl) and female (aka unlucky girl)
 Wear female clothes (aka skirts, dresses) only
 ]
