@@ -44,7 +44,7 @@ Neal Kashkari, Goldman Sachs and George Bush Junior - 43rd President Treasury Ad
 
 
 owner = Rakesh Kukatla-Sittrue
-alexa owner = Ben Bernanke
+alexa worker = Ben Bernanke
 alexa fry owner = Hank Paulson
 alexa fry worker = Neal Kashkari
 
@@ -60,7 +60,7 @@ Ca = california.
 
 
 owner = Rakesh Kukatla-Sittrue
-alexa owner = Ed Lee
+alexa worker = Ed Lee
 alexa fry worker = Dennis Herera
 
 
