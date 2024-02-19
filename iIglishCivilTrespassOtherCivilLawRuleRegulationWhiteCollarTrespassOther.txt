@@ -42,9 +42,9 @@ Financial institutional investors (venture capital funds, private equity funds, 
 and
 other.
 common bank example:
-Ben Bernanke, Academic and George Bush Junior - 43rd President Reserve bank Chairman, Dc, Usa
 Hank Paulson, Goldman Sachs and George Bush Junior - 43rd President Treasury Secretary, Dc, Usa
 Neal Kashkari, Goldman Sachs and George Bush Junior - 43rd President Treasury Advisor, Dc, Usa
+Ben Bernanke, Academic and George Bush Junior - 43rd President Reserve bank Chairman, Dc, Usa
 
 
 owner = Rakesh Kukatla-Sittrue
@@ -78,7 +78,7 @@ justice = judiciary = aka city, town, county, state and federal
 municipal = executive = aka city, town, county, state and federal
 
 
-common in power example:
+common in power attorney example:
 Theodore Olson, George Bush Junior - 43rd President Solicitor judicial attorney, Dc, Usa
 Dennis Herera, municipal executive attorney, San Francisco, Ca, Usa
 Ed Lee, City Mayor, San Francisco, Ca, Usa
