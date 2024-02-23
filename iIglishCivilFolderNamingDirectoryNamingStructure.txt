@@ -1,22 +1,56 @@
 ﻿Iiglish civil - folder naming and directory naming and structure
 
 
+
+
 ----- Open copyright, document, Rakesh Kukatla-Sittrue -----
 Iiglish civil - folder naming and directory naming and structure
 
 
-civil - top to bottom (aka fold-er and direct-or-y)
+
+
+new - top to bottom (aka fold-er and direct-or-y)
 [
-new
-independentInterest
-iIglish
-civil
-improvement
-iRakeshkelmSittrue
+planet
 ]
 
 
-civil iRakeshkelmSittrue nesting - top to bottom (aka fold-er)
+planet - top to bottom (aka fold-er and direct-or-y)
+[
+independentInterest
+]
+
+
+independentInterest nesting - top to bottom (aka fold-er and direct-or-y)
+[
+iIglish
+iIgauls
+iIgermanics
+iIany
+iIworlglish
+]
+
+
+iIglish nesting - top to bottom (aka fold-er and direct-or-y)
+[
+civil
+militia
+]
+
+
+civil - top to bottom (aka fold-er and direct-or-y)
+[
+improvement
+]
+
+
+improvement - top to bottom (aka fold-er and direct-or-y)
+[
+rakeshkelmSittrue
+]
+
+
+iRakeshkelmSittrue nesting - top to bottom (aka fold-er and direct-or-y)
 [
 iiForward
 iiRakeshKukatlaSittrue

@@ -5,22 +5,71 @@
 Iiglish militia - folder naming and directory naming and structure
 
 
+
+
+new - top to bottom (aka fold-er and direct-or-y)
+[
+planet
+]
+
+
+planet - top to bottom (aka fold-er and direct-or-y)
+[
+independentInterest
+]
+
+
+independentInterest nesting - top to bottom (aka fold-er and direct-or-y)
+[
+iIglish
+iIgauls
+iIgermanics
+iIany
+iIworlglish
+]
+
+
+iIglish nesting - top to bottom (aka fold-er and direct-or-y)
+[
+civil
+militia
+]
+
+
 militia - top to bottom (aka fold-er and direct-or-y)
 [
-new
-independentInterest
-iIglish
-militia
 media
+]
+
+
+media - top to bottom (aka fold-er and direct-or-y)
+[
 actionsMovement
+]
+
+
+actionsMovement - top to bottom (aka fold-er and direct-or-y)
+[
 rakeshkelmSittrue
 ]
 
 
-militia rakeshkelmSittrue nesting - top to bottom (aka fold-er)
+rakeshkelmSittrue nesting - top to bottom (aka fold-er and direct-or-y)
 [
 reCord
+reNote
+reImageVideo
+]
+
+
+reCord, reNote, reImageVideo - top to bottom (aka fold-er and direct-or-y)
+[
 dailyIntelPantie
+]
+
+
+reCord, dailyIntelPantie nesting - top to bottom (aka fold-er and direct-or-y)
+[
 natCorpUsaSaudiRoyalists
 voluntaryOrgUsaSaudiRoyalists
 nonProfitOrgUsaSaudiRoyalists
@@ -33,10 +82,8 @@ deprecated
 ]
 
 
-militia rakeshkelmSittrue nesting - top to bottom (aka fold-er)
+reNote, dailyIntelPantie nesting - top to bottom (aka fold-er)
 [
-reNote
-dailyIntelPantie
 independentInterest
 earthBackupNotes
 ideasOnTheMove
@@ -46,10 +93,8 @@ deprecated
 ]
 
 
-militia rakeshkelmSittrue nesting - top to bottom (aka fold-er)
+reImageVideo, dailyIntelPantie nesting - top to bottom (aka fold-er)
 [
-reImageVideo
-dailyIntelPantie
 forwardVisuals
 visuals
 profileVisuals
